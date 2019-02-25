@@ -12,10 +12,10 @@ Web application that provides a phonebook
 ### 2. Clone the project
 
 ssh:
-git clone git@github.com:jdgaremp/phonebook-frontend.git
+git clone git@github.com:jdgaremp/phonebook-backend.git
 
 https:
-git clone https://github.com/jdgaremp/phonebook-frontend.git
+git clone https://github.com/jdgaremp/phonebook-backend.git
 
 ### 3. Start the backend
 
